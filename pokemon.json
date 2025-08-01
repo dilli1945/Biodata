@@ -3,16 +3,16 @@
     "nomor_pokedex" : 724 ,
     "bentuk" : "Hisui",
     "tipe" : [
-        "Daun",
-        "Petarung"
+        "🌿Daun",
+        "🥊Petarung"
     ],
     "kelemahan" : [
-        "Api",
-        "Es",
-        "Racun",
-        "Terbang",
-        "Psychic",
-        "Peri"
+        "🔥Api",
+        "❄️Es",
+        "💀Racun",
+        "🪽Terbang",
+        "🔮Psychic",
+        "🧚Peri"
     ],
     "tinggi" : "1.6 meter",
     "berat" : "37Kg",
