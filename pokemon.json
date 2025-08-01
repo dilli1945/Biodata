@@ -1,0 +1,25 @@
+{
+    "nama" : "Decidueye",
+    "nomor_pokedex" : 724 ,
+    "bentuk" : "Hisui",
+    "tipe" : [
+        "Daun",
+        "Petarung"
+    ],
+    "kelemahan" : [
+        "Api",
+        "Es",
+        "Racun",
+        "Terbang",
+        "Psychic",
+        "Peri"
+    ],
+    "tinggi" : "1.6 meter",
+    "berat" : "37Kg",
+    "kemampuan" : [
+        "Scrappy (hidden ability)",
+        "Overgrow"
+    ],
+    "kategori" : "Pokémon Bulu Panah",
+    "jenis_kelamin" : "Jantan/Betina"
+}
