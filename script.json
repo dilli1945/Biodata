@@ -1,0 +1,17 @@
+{
+        "nama" : "Benjamin G. Whittaker",
+        "tempat_lahir" : "Darlaston, Walsall, Inggris",
+        "tanggal_lahir" : "1997-06-06",
+        "alamat" : {
+            "kota" : "Darlington",
+            "negara" : "Inggris"
+        },
+        "hobi" : [
+            "Boxing",
+            "Musik"
+        ],
+        "kontak" : {
+            "instagram" : "Ben Whittaker",
+            "twitter" : "Ben Whittaker"
+        }
+}
